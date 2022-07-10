@@ -3,8 +3,6 @@
 
 Hello guys,
 
-
-
 This is basic calculator project which is built using HTML, CSS and JAVASCRIPT where we can perform various basic operations like addition, substraction, multiplication, division and modulo operation.
 
 
